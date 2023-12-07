@@ -1,0 +1,10 @@
+{
+  "Settings": {
+    "Email": "ali@gmail.com",
+    "Password": "password",
+    "2CaptchaAPIKey": "dfsdfsdf",
+    "ChangeInterests": false,
+    "NumberOfInstancesToRun": 1,
+    "WaitForIP": 10
+  }
+}
